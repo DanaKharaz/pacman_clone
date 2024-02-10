@@ -1,2 +1,2 @@
 # pacman_clone
-Game (in progress)
+A clone of the classic Pacman game
